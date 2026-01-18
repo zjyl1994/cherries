@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example.com/template/infra/startup"
+	"github.com/zjyl1994/cherries/infra/startup"
 	"github.com/sirupsen/logrus"
 )
 

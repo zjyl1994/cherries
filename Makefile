@@ -1,4 +1,4 @@
-TARGET=APP_NAME_PLACEHOLDER
+TARGET=cherries
 
 UPX := $(shell command -v upx 2>/dev/null)
 

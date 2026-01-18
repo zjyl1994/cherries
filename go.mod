@@ -1,4 +1,4 @@
-module example.com/template
+module github.com/zjyl1994/cherries
 
 go 1.24.5
 

@@ -8,8 +8,8 @@ import (
 	"syscall"
 	"time"
 
-	"example.com/template/infra/vars"
-	"example.com/template/webui"
+	"github.com/zjyl1994/cherries/infra/vars"
+	"github.com/zjyl1994/cherries/webui"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/compress"
 	"github.com/gofiber/fiber/v2/middleware/filesystem"
